@@ -1,0 +1,17 @@
+Lote 229 — 2026-11-19
+Buffer: NO publicado. buffer___get_account devolvió HTTP 429. Retry-After: 140563 segundos (unas 39 h). No se reintentó en ráfaga. Una sola tarea programada para después de ese plazo.
+Organización: no se pudo leer el nombre porque get_account falló con 429.
+
+Videos reales (vertical 1080x1920, voz neural, subtítulos palabra a palabra, Wikimedia Commons):
+1. IA al Alcance — 2026 El mamífero que huele a palomitas — 2:29 — binturong (Arctictis binturong) — voz es-MX-DaliaNeural
+   https://cdn.jsdelivr.net/gh/graciasdios9999-prog/lote229b-20261119@main/ia_binturong.mp4
+2. Refugio en la Palabra — 2026 Fue al pozo para que nadie la viera — 2:49 — samaritana, Jehová y Jesucristo — voz es-MX-JorgeNeural
+   https://cdn.jsdelivr.net/gh/graciasdios9999-prog/lote229b-20261119@main/refugio_pozo.mp4
+3. Cuerpo (Instagram) — 2026 Tu ojo ve porque no tiene venas — 2:49 — córnea, menta, jengibre, manzanilla, romero — voz es-CO-SalomeNeural
+   https://cdn.jsdelivr.net/gh/graciasdios9999-prog/lote229b-20261119@main/cuerpo_cornea.mp4
+
+Tag Amazon confirmado en Drive: michelgonza02-20
+No se fabricó pieza de 90 minutos: Wikimedia respondió 429 y un corte cada 2-3 s durante 90 min exigiría miles de planos únicos. Se entregó el formato de 3 minutos pedido en la especificación de producción.
+Temas que no deben repetirse: binturong, samaritana en el pozo, córnea, mentol/TRPM8, jengibre rizoma, manzanilla, romero.
+Vercel: el token del equipo no validó (bad-credentials). URL estable usada: GitHub + jsDelivr (video/mp4).
+Repo: https://github.com/graciasdios9999-prog/lote229b-20261119
